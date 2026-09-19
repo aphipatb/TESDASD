@@ -1,0 +1,702 @@
+[
+  {
+    "name": "เจ๊ไฝ (Jay Fai)",
+    "description": "ไข่เจียวปูแน่นๆ และราดหน้าทะเลระดับดาวมิชลิน",
+    "capacityPerSlot": 30,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
+      ""
+    ],
+    "lat": 13.7526,
+    "lng": 100.5048,
+    "rating": 4.6,
+    "reviewCount": 1540,
+    "tags": ["thai", "ของคาว", "michelin"]
+  },
+  {
+    "name": "ทิพย์สมัย ผัดไทยประตูผี",
+    "description": "ผัดไทยมันกุ้งห่อไข่ระดับตำนาน",
+    "capacityPerSlot": 40,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
+      ""
+    ],
+    "lat": 13.7528,
+    "lng": 100.5047,
+    "rating": 4.2,
+    "reviewCount": 2100,
+    "tags": ["thai", "ของคาว", "street food"]
+  },
+  {
+    "name": "วัฒนาพานิช",
+    "description": "ก๋วยเตี๋ยวเนื้อตุ๋นน้ำซุปเข้มข้น ย่านเอกมัย",
+    "capacityPerSlot": 50,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      ""
+    ],
+    "lat": 13.7275,
+    "lng": 100.5878,
+    "rating": 4.5,
+    "reviewCount": 950,
+    "tags": ["thai", "ของคาว", "noodle"]
+  },
+  {
+    "name": "รุ่งเรืองต้มยำ (สุขุมวิท 26)",
+    "description": "ก๋วยเตี๋ยวหมูสับต้มยำมะนาวสด",
+    "capacityPerSlot": 35,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      ""
+    ],
+    "lat": 13.7251,
+    "lng": 100.5701,
+    "rating": 4.4,
+    "reviewCount": 1300,
+    "tags": ["thai", "ของคาว", "noodle"]
+  },
+  {
+    "name": "โกอ่างข้าวมันไก่ประตูน้ำ",
+    "description": "ข้าวมันไก่ฉ่ำๆ ตำนานเสื้อชมพู",
+    "capacityPerSlot": 40,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      ""
+    ],
+    "lat": 13.7497,
+    "lng": 100.5422,
+    "rating": 4.3,
+    "reviewCount": 1850,
+    "tags": ["thai", "ของคาว", "street food"]
+  },
+  {
+    "name": "นายไซ",
+    "description": "ข้าวหมูกรอบกรอบสนั่น ย่านประชาชื่น",
+    "capacityPerSlot": 20,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
+      ""
+    ],
+    "lat": 13.8242,
+    "lng": 100.5367,
+    "rating": 4.6,
+    "reviewCount": 780,
+    "tags": ["thai", "ของคาว", "street food"]
+  },
+  {
+    "name": "ก๋วยจั๊บนายเอ็ก",
+    "description": "ก๋วยจั๊บน้ำใสพริกไทยร้อนผ่าว ย่านเยาวราช",
+    "capacityPerSlot": 30,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
+      ""
+    ],
+    "lat": 13.7405,
+    "lng": 100.5106,
+    "rating": 4.3,
+    "reviewCount": 1600,
+    "tags": ["thai", "ของคาว", "street food"]
+  },
+  {
+    "name": "เผ็ด เผ็ด (Phed Phed)",
+    "description": "อาหารอีสานรสจัดจ้านและส้มตำวัตถุดิบพื้นบ้าน",
+    "capacityPerSlot": 25,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      ""
+    ],
+    "lat": 13.7825,
+    "lng": 100.5451,
+    "rating": 4.7,
+    "reviewCount": 850,
+    "tags": ["thai", "isan", "ของคาว"]
+  },
+  {
+    "name": "โจ๊กสามย่าน",
+    "description": "โจ๊กหมูเด้งชิ้นโตเนื้อเนียน",
+    "capacityPerSlot": 20,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      ""
+    ],
+    "lat": 13.7381,
+    "lng": 100.5284,
+    "rating": 4.5,
+    "reviewCount": 920,
+    "tags": ["thai", "ของคาว", "street food"]
+  },
+  {
+    "name": "ก๋วยเตี๋ยวเพ็ญพริกเผ็ด",
+    "description": "ก๋วยเตี๋ยวหมู/เนื้อน้ำแดงรสเด็ด เอกลักษณ์เมืองเพชร",
+    "capacityPerSlot": 20,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      ""
+    ],
+    "lat": 13.1118,
+    "lng": 99.9453,
+    "rating": 4.4,
+    "reviewCount": 450,
+    "tags": ["thai", "ของคาว", "noodle"]
+  },
+  {
+    "name": "ศรณ์ (Sorn)",
+    "description": "อาหารใต้สไตล์ Fine Dining 2 ดาวมิชลิน",
+    "capacityPerSlot": 15,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
+      ""
+    ],
+    "lat": 13.7275,
+    "lng": 100.5694,
+    "rating": 4.9,
+    "reviewCount": 420,
+    "tags": ["thai", "ของคาว", "fine dining", "michelin"]
+  },
+  {
+    "name": "ครัวอัปษร",
+    "description": "อาหารไทยรสจัดจ้าน เมนูเด็ดไข่ฟูปูและแกงเหลือง",
+    "capacityPerSlot": 45,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
+      ""
+    ],
+    "lat": 13.7547,
+    "lng": 100.5059,
+    "rating": 4.6,
+    "reviewCount": 1100,
+    "tags": ["thai", "ของคาว"]
+  },
+  {
+    "name": "สุพรรณิการ์ (Supanniga Eating Room)",
+    "description": "อาหารไทยตราด-อีสานสูตรคุณยาย",
+    "capacityPerSlot": 35,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      ""
+    ],
+    "lat": 13.7276,
+    "lng": 100.5794,
+    "rating": 4.5,
+    "reviewCount": 890,
+    "tags": ["thai", "ของคาว"]
+  },
+  {
+    "name": "ศรีตราด (Sri Trat)",
+    "description": "อาหารไทยตะวันออกรสเข้มข้น บรรยากาศดี",
+    "capacityPerSlot": 40,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      ""
+    ],
+    "lat": 13.7346,
+    "lng": 100.5721,
+    "rating": 4.6,
+    "reviewCount": 750,
+    "tags": ["thai", "ของคาว"]
+  },
+  {
+    "name": "เขียวไก่กา",
+    "description": "อาหารไทยพื้นบ้านวัตถุดิบคุณภาพ",
+    "capacityPerSlot": 45,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      ""
+    ],
+    "lat": 13.8052,
+    "lng": 100.6053,
+    "rating": 4.5,
+    "reviewCount": 620,
+    "tags": ["thai", "ของคาว"]
+  },
+  {
+    "name": "พวงเพชร",
+    "description": "ร้านอาหารไทย-พื้นบ้านเมืองเพชร เมนูต้มส้มและแกงป่า",
+    "capacityPerSlot": 50,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
+      ""
+    ],
+    "lat": 13.1095,
+    "lng": 99.9442,
+    "rating": 4.4,
+    "reviewCount": 510,
+    "tags": ["thai", "ของคาว", "local"]
+  },
+  {
+    "name": "สังเวียนซีฟู้ด",
+    "description": "ร้านซีฟู้ดริมหาด จานใหญ่ วัตถุดิบสดใหม่",
+    "capacityPerSlot": 80,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
+      ""
+    ],
+    "lat": 12.8021,
+    "lng": 99.9837,
+    "rating": 4.5,
+    "reviewCount": 1250,
+    "tags": ["seafood", "ของคาว"]
+  },
+  {
+    "name": "แหลมเจริญซีฟู้ด",
+    "description": "ต้นตำรับปลากะพงทอดน้ำปลา",
+    "capacityPerSlot": 100,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      ""
+    ],
+    "lat": 12.6732,
+    "lng": 101.2721,
+    "rating": 4.6,
+    "reviewCount": 3000,
+    "tags": ["seafood", "ของคาว"]
+  },
+  {
+    "name": "อบอร่อย",
+    "description": "กุ้งอบวุ้นเส้นและอาหารทะเลสด ย่านทาวน์อินทาวน์",
+    "capacityPerSlot": 60,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      ""
+    ],
+    "lat": 13.7699,
+    "lng": 100.6122,
+    "rating": 4.5,
+    "reviewCount": 1800,
+    "tags": ["seafood", "ของคาว"]
+  },
+  {
+    "name": "เรือนสายน้ำ",
+    "description": "กุ้งแม่น้ำเผาตัวโต มันกุ้งเยิ้มริมแม่น้ำเจ้าพระยา",
+    "capacityPerSlot": 40,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      ""
+    ],
+    "lat": 14.3411,
+    "lng": 100.5732,
+    "rating": 4.7,
+    "reviewCount": 940,
+    "tags": ["seafood", "thai", "ของคาว"]
+  },
+  {
+    "name": "ระย้า (Raya)",
+    "description": "แกงเนื้อปูใบชะพลูตำนานเมืองภูเก็ต",
+    "capacityPerSlot": 50,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
+      ""
+    ],
+    "lat": 7.8862,
+    "lng": 98.3904,
+    "rating": 4.6,
+    "reviewCount": 1500,
+    "tags": ["thai", "ของคาว", "local"]
+  },
+  {
+    "name": "ตู้กับข้าว",
+    "description": "อาหารพื้นเมืองภูเก็ตในอาคารชิโน-โปรตุกีส",
+    "capacityPerSlot": 40,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
+      ""
+    ],
+    "lat": 7.8845,
+    "lng": 98.3895,
+    "rating": 4.7,
+    "reviewCount": 2200,
+    "tags": ["thai", "ของคาว", "local"]
+  },
+  {
+    "name": "โกเบ๊นซ์ ข้าวต้มบาทเดียว",
+    "description": "ข้าวต้มแห้งหมูกรอบชื่อดัง",
+    "capacityPerSlot": 30,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      ""
+    ],
+    "lat": 7.8885,
+    "lng": 98.3883,
+    "rating": 4.6,
+    "reviewCount": 2500,
+    "tags": ["thai", "ของคาว", "street food"]
+  },
+  {
+    "name": "ต๋องเต็มโต๊ะ",
+    "description": "อาหารเหนือพื้นเมืองย่านนิมมานฯ",
+    "capacityPerSlot": 40,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      ""
+    ],
+    "lat": 18.7963,
+    "lng": 98.9663,
+    "rating": 4.4,
+    "reviewCount": 3100,
+    "tags": ["thai", "ของคาว", "local"]
+  },
+  {
+    "name": "ข้าวซอยแม่สาย",
+    "description": "ข้าวซอยเนื้อ-ไก่ รสเข้มข้นดั้งเดิม",
+    "capacityPerSlot": 20,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      ""
+    ],
+    "lat": 18.8023,
+    "lng": 98.9765,
+    "rating": 4.5,
+    "reviewCount": 1100,
+    "tags": ["thai", "ของคาว", "noodle"]
+  },
+  {
+    "name": "เฮือนเพ็ญ",
+    "description": "ขันโตกและอาหารเหนือย่านคูเมือง",
+    "capacityPerSlot": 60,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
+      ""
+    ],
+    "lat": 18.7845,
+    "lng": 98.9845,
+    "rating": 4.3,
+    "reviewCount": 1800,
+    "tags": ["thai", "ของคาว", "local"]
+  },
+  {
+    "name": "ครัวกรรณิการ์",
+    "description": "ขนมจีนน้ำยาปูกับไก่ทอดสูตรเด็ดเฉพาะตัว",
+    "capacityPerSlot": 30,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
+      ""
+    ],
+    "lat": 12.5694,
+    "lng": 99.9576,
+    "rating": 4.5,
+    "reviewCount": 850,
+    "tags": ["thai", "ของคาว", "local"]
+  },
+  {
+    "name": "ไก่ย่างวิเชียรบุรี (ตาแป๊ะ)",
+    "description": "ไก่ย่างหนังกรอบน้ำจิ้มรสเด็ด",
+    "capacityPerSlot": 40,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      ""
+    ],
+    "lat": 15.6515,
+    "lng": 101.0558,
+    "rating": 4.4,
+    "reviewCount": 600,
+    "tags": ["thai", "isan", "ของคาว"]
+  },
+  {
+    "name": "ลาบเป็ดอุดร",
+    "description": "ลาบเป็ดรสแซ่บและอาหารอีสานดั้งเดิม",
+    "capacityPerSlot": 45,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      ""
+    ],
+    "lat": 17.4138,
+    "lng": 102.7958,
+    "rating": 4.3,
+    "reviewCount": 720,
+    "tags": ["thai", "isan", "ของคาว"]
+  },
+  {
+    "name": "ก๋วยเตี๋ยวเรือป้าเล็ก",
+    "description": "ก๋วยเตี๋ยวเรือน้ำตกเข้มข้นหน้าวัดมหาธาตุ",
+    "capacityPerSlot": 20,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      ""
+    ],
+    "lat": 14.3567,
+    "lng": 100.5678,
+    "rating": 4.5,
+    "reviewCount": 980,
+    "tags": ["thai", "ของคาว", "noodle"]
+  },
+  {
+    "name": "Le Du (ฤดู)",
+    "description": "อาหารไทยร่วมสมัยสไตล์ Modern Dining",
+    "capacityPerSlot": 20,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
+      ""
+    ],
+    "lat": 13.7237,
+    "lng": 100.5284,
+    "rating": 4.8,
+    "reviewCount": 450,
+    "tags": ["thai", "modern", "ของคาว", "michelin"]
+  },
+  {
+    "name": "Peppina",
+    "description": "พิซซ่าสไตล์นาโปลีแท้ อบเตาถ่าน",
+    "capacityPerSlot": 45,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
+      ""
+    ],
+    "lat": 13.7383,
+    "lng": 100.5694,
+    "rating": 4.5,
+    "reviewCount": 1150,
+    "tags": ["italian", "ของคาว", "pizza"]
+  },
+  {
+    "name": "Isao",
+    "description": "ซูชิฟิวชั่นสไตล์ญี่ปุ่น-อเมริกัน เมนูเด็ด Jackie Roll",
+    "capacityPerSlot": 25,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      ""
+    ],
+    "lat": 13.7335,
+    "lng": 100.5709,
+    "rating": 4.6,
+    "reviewCount": 1250,
+    "tags": ["japanese", "fusion", "ของคาว"]
+  },
+  {
+    "name": "Sushi Masato",
+    "description": "โอมากาเสะพรีเมียมโดยเชฟชาวญี่ปุ่น",
+    "capacityPerSlot": 10,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      ""
+    ],
+    "lat": 13.7345,
+    "lng": 100.5656,
+    "rating": 4.8,
+    "reviewCount": 340,
+    "tags": ["japanese", "omakase", "ของคาว"]
+  },
+  {
+    "name": "Daniel Thaiger",
+    "description": "เบอร์เกอร์เนื้อบดฉ่ำๆ สไตล์อเมริกัน",
+    "capacityPerSlot": 15,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      ""
+    ],
+    "lat": 13.7431,
+    "lng": 100.5552,
+    "rating": 4.6,
+    "reviewCount": 890,
+    "tags": ["american", "burger", "ของคาว"]
+  },
+  {
+    "name": "El Gaucho",
+    "description": "สเต๊กเนื้อเกรดพรีเมียมสไตล์อาร์เจนตินา",
+    "capacityPerSlot": 50,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
+      ""
+    ],
+    "lat": 13.7385,
+    "lng": 100.5601,
+    "rating": 4.5,
+    "reviewCount": 1200,
+    "tags": ["steak", "argentinian", "ของคาว"]
+  },
+  {
+    "name": "Cocotte Farm Roast & Winery",
+    "description": "ร้านสเต๊กและอาหารฝรั่งเศสสไตล์บิสโทร",
+    "capacityPerSlot": 60,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
+      ""
+    ],
+    "lat": 13.7351,
+    "lng": 100.5731,
+    "rating": 4.6,
+    "reviewCount": 1400,
+    "tags": ["french", "steak", "ของคาว"]
+  },
+  {
+    "name": "Zanotti",
+    "description": "ร้านอาหารอิตาเลียนระดับตำนานย่านสีลม",
+    "capacityPerSlot": 50,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      ""
+    ],
+    "lat": 13.7272,
+    "lng": 100.5361,
+    "rating": 4.5,
+    "reviewCount": 850,
+    "tags": ["italian", "ของคาว"]
+  },
+  {
+    "name": "เนื้อแท้ (Nuathea)",
+    "description": "สารพัดเมนูเนื้อวัวรสเข้มข้น",
+    "capacityPerSlot": 40,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      ""
+    ],
+    "lat": 13.8402,
+    "lng": 100.6781,
+    "rating": 4.4,
+    "reviewCount": 980,
+    "tags": ["thai", "beef", "ของคาว"]
+  },
+  {
+    "name": "Greyhound Café",
+    "description": "อาหารสไตล์เอเชียน-สตรีทฟิวชั่นร่วมสมัย",
+    "capacityPerSlot": 60,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      ""
+    ],
+    "lat": 13.7314,
+    "lng": 100.5694,
+    "rating": 4.3,
+    "reviewCount": 1800,
+    "tags": ["fusion", "cafe", "ของคาว"]
+  },
+  {
+    "name": "อาฟเตอร์ยู (After You)",
+    "description": "คากิโกริ ชิบูย่าฮันนี่โทสต์ยอดฮิต",
+    "capacityPerSlot": 40,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
+      ""
+    ],
+    "lat": 13.7291,
+    "lng": 100.5312,
+    "rating": 4.7,
+    "reviewCount": 3500,
+    "tags": ["dessert", "cafe", "ของหวาน"]
+  },
+  {
+    "name": "มนต์ นมสด",
+    "description": "ขนมปังปิ้งนมหอมและนมสดหน้าลานคนเมือง",
+    "capacityPerSlot": 30,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
+      ""
+    ],
+    "lat": 13.7538,
+    "lng": 100.5015,
+    "rating": 4.5,
+    "reviewCount": 2800,
+    "tags": ["dessert", "cafe", "ของหวาน"]
+  },
+  {
+    "name": "สิงคโปร์โภชนา (ลอดช่องสิงคโปร์)",
+    "description": "ลอดช่องเส้นนุ่มน้ำกะทิหอมหวาน ย่านสามแยกเจริญกรุง",
+    "capacityPerSlot": 20,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      ""
+    ],
+    "lat": 13.7385,
+    "lng": 100.5108,
+    "rating": 4.4,
+    "reviewCount": 1200,
+    "tags": ["thai", "dessert", "ของหวาน"]
+  },
+  {
+    "name": "Factory Coffee",
+    "description": "Specialty Coffee ดีกรีแชมป์บาริสต้า",
+    "capacityPerSlot": 25,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      ""
+    ],
+    "lat": 13.7571,
+    "lng": 100.5372,
+    "rating": 4.8,
+    "reviewCount": 1650,
+    "tags": ["coffee", "cafe", "เครื่องดื่ม"]
+  },
+  {
+    "name": "Roots",
+    "description": "กาแฟคราฟต์เมล็ดไทยคุณภาพระดับพรีเมียม",
+    "capacityPerSlot": 30,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      ""
+    ],
+    "lat": 13.7332,
+    "lng": 100.5824,
+    "rating": 4.7,
+    "reviewCount": 980,
+    "tags": ["coffee", "cafe", "เครื่องดื่ม"]
+  },
+  {
+    "name": "ลอดช่องน้ำกะทิป้าปรางค์",
+    "description": "ขนมหวานน้ำกะทิลอดช่องเมืองเพชรแท้",
+    "capacityPerSlot": 15,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
+      ""
+    ],
+    "lat": 13.1123,
+    "lng": 99.9458,
+    "rating": 4.6,
+    "reviewCount": 420,
+    "tags": ["thai", "dessert", "ของหวาน", "local"]
+  },
+  {
+    "name": "แม่กิมลั้ง",
+    "description": "ขนมหม้อแกงและขนมไทยเมืองเพชรของฝากชื่อดัง",
+    "capacityPerSlot": 50,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
+      ""
+    ],
+    "lat": 13.0619,
+    "lng": 99.9412,
+    "rating": 4.3,
+    "reviewCount": 800,
+    "tags": ["thai", "dessert", "ของหวาน", "souvenir"]
+  },
+  {
+    "name": "Chocolate Ville",
+    "description": "ร้านอาหารบรรยากาศหมู่บ้านยุโรป",
+    "capacityPerSlot": 150,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+      ""
+    ],
+    "lat": 13.8118,
+    "lng": 100.6806,
+    "rating": 4.4,
+    "reviewCount": 5500,
+    "tags": ["international", "ของคาว", "attraction"]
+  },
+  {
+    "name": "ร้านกาแฟชายทุ่ง",
+    "description": "กาแฟรสชาติเยี่ยม บรรยากาศสวนร่มรื่น",
+    "capacityPerSlot": 40,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
+      ""
+    ],
+    "lat": 14.0416,
+    "lng": 100.7302,
+    "rating": 4.5,
+    "reviewCount": 1100,
+    "tags": ["coffee", "cafe", "เครื่องดื่ม"]
+  },
+  {
+    "name": "ชาตรามือ (ChaTraMue)",
+    "description": "ชาไทยเย็นรสเข้มข้นและไอศกรีมชาไทย",
+    "capacityPerSlot": 10,
+    "imageUrl": [
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+      ""
+    ],
+    "lat": 13.7388,
+    "lng": 100.5604,
+    "rating": 4.6,
+    "reviewCount": 1500,
+    "tags": ["tea", "dessert", "เครื่องดื่ม"]
+  }
+]
