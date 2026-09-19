@@ -1,4 +1,5 @@
-[
+final List<Map<String, dynamic>> dummyData = [ 
+
   {
     "name": "เจ๊ไฝ (Jay Fai)",
     "description": "ไข่เจียวปูแน่นๆ และราดหน้าทะเลระดับดาวมิชลิน sss",
@@ -20,7 +21,7 @@
     "lng": 100.5048,
     "rating": 4.6,
     "reviewCount": 1540,
-    "tags": ["thai", "ของคาว", "michelin"]
+    "tags": ["thai", "ของคาว", "michelin" ]
   },
   {
     "name": "ทิพย์สมัย ผัดไทยประตูผี",
@@ -66,7 +67,7 @@
     "lng": 100.5878,
     "rating": 4.5,
     "reviewCount": 950,
-    "tags": ["thai", "ของคาว", "noodle"]
+    "tags": ["thai", "ของคาว", "noodle",]
   },
   {
     "name": "รุ่งเรืองต้มยำ (สุขุมวิท 26)",
