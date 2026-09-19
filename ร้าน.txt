@@ -15,7 +15,7 @@ final List<Map<String, dynamic>> dummyData = [
       "https://github.com/aphipatb/photo/blob/main/Screenshot%202026-09-19%20215231.png?raw=true",
       "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUPFJdO3WIjgdWSFLLNqBVljGRgXqWW9NKAQ-ZW4K2ncxTHkYO8PbLj00g3g1hjlz2X8cJpqk2ol7ujUQVklhe-Xurm9dwTTYMpz--3PVztYuABZ_rh2a0_Low0JzXGTTIuriykfSs-8s=s1360-w1360-h1020-rw",
       "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnk69CbJtqvf8QmT53AxFod26E4OjFhJT5iHwjjFbH5oaIzxLIFlNd60fTOnWosWjIZuk_JuitsqGXLc93uI2-g69Za7gKQCMJc_eS58MryHvPirzCIeDpnDpebLe8plE0_WSedpeluWFRk=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdKncjmQmeNXUnaOHeyJZu31OLYYxwjbGeJPpaj4IZlKU7-SmktGrapt3VRVT6SjYFxp-p5ikI46j1lP8KUPVduo3Pi2l7xTSW7JQi5BOc-Jm6djNLBO0ZrWuQW_7FWkYe7OL0v2LYiZwV=s1360-w1360-h1020-rw"
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdKncjmQmeNXUnaOHeyJZu31OLYYxwjbGeJPpaj4IZlKU7-SmktGrapt3VRVT6SjYFxp-p5ikI  46j1lP8KUPVduo3Pi2l7xTSW7JQi5BOc-Jm6djNLBO0ZrWuQW_7FWkYe7OL0v2LYiZwV=s1360-w1360-h1020-rw"
     ],
     "lat": 13.7526,
     "lng": 100.5048,
@@ -25,7 +25,7 @@ final List<Map<String, dynamic>> dummyData = [
   },
   {
     "name": "ทิพย์สมัย ผัดไทยประตูผี",
-    "description": "ผัดไทยมันกุ้งห่อไข่ระดับตำนาน",
+    "description": "ผัดไทยมันกุ้งห่อไข่ระดับตำนาน sss",
     "address": "313-315 ถ.มหาไชย แขวงสำราญราษฎร์ เขตพระนคร กรุงเทพมหานคร 10200",
     "phoneNumber": "02-226-6666",
     "socialLinks": {
@@ -71,7 +71,7 @@ final List<Map<String, dynamic>> dummyData = [
   },
   {
     "name": "รุ่งเรืองต้มยำ (สุขุมวิท 26)",
-    "description": "ก๋วยเตี๋ยวหมูสับต้มยำมะนาวสด",
+    "description": "ก๋วยเตี๋ยวหมูสับต้มยำมะนาวสด sss",
     "address": "10/3 ซ.สุขุมวิท 26 แขวงคลองตัน เขตคลองเตย กรุงเทพมหานคร 10110",
     "phoneNumber": "02-258-6746",
     "socialLinks": {
@@ -149,7 +149,7 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 30,
     "imageUrl": [
-      "https://img.wongnai.com/p/1920x0/2019/04/20/e17c5a0f713c413c8cfb41f432f340a0.jpg",
+      "https://github.com/aphipatb/photo/blob/main/e17c5a0f713c413c8cfb41f432f340a0.jpg?raw=true",
       "https://img.wongnai.com/p/1920x0/2022/04/24/2abe0bd00b8c438fb2700be5e4d07ff3.jpg",
       "https://img.wongnai.com/p/1920x0/2015/05/11/d04a349b64154c7380d499fb98a40ae7.jpg",
       "https://img.wongnai.com/p/1920x0/2019/07/17/cd50409eb61c4b8ebb804e3596d8ee8f.jpg",
