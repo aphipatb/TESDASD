@@ -568,6 +568,7 @@ final List<Map<String, dynamic>> dummyData = [
       "https://raw.githubusercontent.com/aphipatb/photo/main/ข้าวซอยแม่สาย2.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/ข้าวซอยแม่สาย3.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยเตี๋ยวเพ็ญพริกเผ็ด4.jpg"
+    ],
     "lat": 18.8023,
     "lng": 98.9765,
     "rating": 4.5,
@@ -1022,11 +1023,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 30,
     "imageUrl": [
-      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
-      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
-      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
-      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Roots.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Roots1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Roots2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Roots3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Roots4.jpg"
     ],
     "lat": 13.7332,
     "lng": 100.5824,
@@ -1045,11 +1046,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 15,
     "imageUrl": [
-      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
-      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
-      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
-      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/kanom1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/kanom.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/kanom2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/kanom3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/kanom4.jpg"
     ],
     "lat": 13.1123,
     "lng": 99.9458,
@@ -1068,11 +1069,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 50,
     "imageUrl": [
-      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
-      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
-      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
-      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/แม่กิมลั้ง.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/แม่กิมลั้ง1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/แม่กิมลั้ง2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/แม่กิมลั้ง3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/แม่กิมลั้ง4.jpg"
     ],
     "lat": 13.0619,
     "lng": 99.9412,
@@ -1091,11 +1092,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 150,
     "imageUrl": [
-      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
-      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
-      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
-      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Ville.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Ville1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Ville3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Ville2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Ville4.jpg"
     ],
     "lat": 13.8118,
     "lng": 100.6806,
@@ -1114,11 +1115,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 40,
     "imageUrl": [
-      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
-      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
-      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
-      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ร้านกาแฟชายทุ่ง.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ร้านกาแฟชายทุ่ง1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ร้านกาแฟชายทุ่ง2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ร้านกาแฟชายทุ่ง3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ร้านกาแฟชายทุ่ง4.jpg"
     ],
     "lat": 14.0416,
     "lng": 100.7302,
@@ -1137,11 +1138,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 10,
     "imageUrl": [
-      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
-      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
-      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
-      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ChaTraMue.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ChaTraMue1.png",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ChaTraMue2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ChaTraMue3.png",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ChaTraMue4.png"
     ],
     "lat": 13.7388,
     "lng": 100.5604,
