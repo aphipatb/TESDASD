@@ -11,11 +11,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 30,
     "imageUrl": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDseCxTHDE5SalW7OJS1UvStioNInlXmnCecHhstkIQ2yv3h__5uxz4l5arpP7AB5pSgPTDsIi8w9IFZxhFyuGyJesqTnWcLOLn4JKV7w8Ry66RPgluVJ4vnICTWElF83kB9ju0zMFuvM=s1360-w1360-h1020-rw",
-      "https://github.com/aphipatb/photo/blob/main/Screenshot%202026-09-19%20215231.png?raw=true",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUPFJdO3WIjgdWSFLLNqBVljGRgXqWW9NKAQ-ZW4K2ncxTHkYO8PbLj00g3g1hjlz2X8cJpqk2ol7ujUQVklhe-Xurm9dwTTYMpz--3PVztYuABZ_rh2a0_Low0JzXGTTIuriykfSs-8s=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnk69CbJtqvf8QmT53AxFod26E4OjFhJT5iHwjjFbH5oaIzxLIFlNd60fTOnWosWjIZuk_JuitsqGXLc93uI2-g69Za7gKQCMJc_eS58MryHvPirzCIeDpnDpebLe8plE0_WSedpeluWFRk=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdKncjmQmeNXUnaOHeyJZu31OLYYxwjbGeJPpaj4IZlKU7-SmktGrapt3VRVT6SjYFxp-p5ikI  46j1lP8KUPVduo3Pi2l7xTSW7JQi5BOc-Jm6djNLBO0ZrWuQW_7FWkYe7OL0v2LYiZwV=s1360-w1360-h1020-rw"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝปก.png",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ5.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ2.jpg"
     ],
     "lat": 13.7526,
     "lng": 100.5048,
@@ -34,11 +34,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 40,
     "imageUrl": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnffOeo0Wnx8rHw267dPSf7i4lyNj810_r-eiBsQtsUURSXv4oeXAsHbaPsbYaETSkehUJadmXP0r7-g87v6LaWaXH52PlmBmC4qlNgdPe5VUf0Jn8oEtBZVZ4_0J28_rZeOus6=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm-5kzlomIwg34kj25Q8mSRQ6j5WwN1HXkiobLfYECq7n6l77J_Qciq72V8thfpMovZszSnX5cFAfrNr7sdeYJ2K5tHZ0EiQwWOzHl1_U1SdpCg5OYIZaf1l3K__810xVAWUAYK=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmOVe-y5IARmzAEjmLwwhqU4Wwfmt9cx9BKtA5-3ELEpXN4lEVO_kB3QVg4zJg_qOxNaUSugnC2-MfvFCdZAiEOzgRcv36TBkEo559x5uIbzRTikq3czt3zliBk8--oUxupXbrOxMxRNJU=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnRyNWt2BQ-WI1RNiDns5QU7tgZrQv08H-m3JJEzswxnZPR2P4HZHcTCC8NZU1X-2g3mJJ6kBPkc9bKIJwHKNhNxjTT8xlD2KYeb-uDA4V2DawCzEWGGcRBOI0sjAzx9aY9kS7kb3hsA_A=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWm154h0CVokBx3VfAQ8hTen84S6YqChL5a_TWQ8buwFaYEoUW08Fwp53gaosEY3BvMi_huZJBGYP-slDwJeTPjDi_iAwv-ximE_iklkZ-byx8u1-E32-wqDKQ4lb2qoJYy6axI=w243-h244-n-k-no-nu"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ทิพย์สมัย-ผัดไทยประตูผี.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ทิพย์สมัย-ผัดไทยประตูผี1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ทิพย์สมัย-ผัดไทยประตูผี2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ทิพย์สมัย-ผัดไทยประตูผี3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ds.jpg"
     ],
     "lat": 13.7528,
     "lng": 100.5047,
@@ -57,11 +57,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 50,
     "imageUrl": [
-      "https://img.wongnai.com/p/1920x0/2023/03/19/184cf73a9da443f083ae80cffad02e0f.jpg",
-      "https://www.ryoiireview.com/upload/editor_review/202006/1593148912_dab45cc736e63560c47eb0fff239efb2.jpg",
-      "https://tastybangkok.com/wp-content/uploads/2015/12/DSCF2353-1000x500.jpg",
-      "https://www.ryoiireview.com/upload/editor_review/202006/1593158107_11e86d03bff2f596e49aa251aecfe99d.jpg",
-      "https://f.ptcdn.info/222/014/000/1389155390-IMG5322-o.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/วัฒนาพานิช.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/วัฒนาพานิช1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/วัฒนาพานิช2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/วัฒนาพานิช3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/วัฒนาพานิช4.jpg"
     ],
     "lat": 13.7275,
     "lng": 100.5878,
@@ -80,11 +80,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 35,
     "imageUrl": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWllHZbfKJVQnwwJ3QXwIW2oFLGZppWUxNu-yiRjj0YorxZcNbMHArjxHqH6v55SrJuk2PY_9T765jbdD_xqyYaFdJh46-SIDuQfb54iP0jIf4sPZzeCelI0eNN8zO6SW-LLRU2Yvw=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmsMZc484Idpm-UlIeKh7ULmpRTbjeDgm-8YWryNk5ZvxEym8cMFZv0Y2kh04OrxTnuGg9kSK_Xt6_fZXgMy4MKNjqg4vqmsr0dbzAwiz0EzGFwd8JTBymn0q3Yo4T4ZgSuITF3=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkNx75VBd2-M0pRYxY7IbylCH_EEH1QbYqOv-BmxyTaRU2rw0WKG3UzjsgAAS2qHKWzsgJJIlY2SR64rjL1GLadDj7EUfqt57ZRPjddtmR1M99MDVTwBLrt7GEBJMEWd5ric4F7An526kLK=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkAOmQWiqvqKOCQbrI-Conh3ibcnPIp4Cav5eTzu_oPDK3fmW8IAPOH6bmMfDHkdsGaKyK3Iefnke3HbOdbxhYJRIjH9fPA0Ukt1kSZveszGXYEs3lM0kt7hvV6TgmNN0kLdANUQFISR8c=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/grass-cs/ACvplmOWBw5qHrcszlyp4zsBCaldvOMQjiptTOENxjINSAOFXA3kQFSCMSElY9MhM_lOYBSGIEhbh-iPRXDTASftXrRMIqGkaEBwfLdEXIDa-iBDLyU-LKxvtcwtXIqA388MocetQqs5=s1360-w1360-h1020-rw"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/รุ่งเรืองต้มยำ.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/blob/รุ่งเรืองต้มยำ1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/รุ่งเรืองต้มยำ2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/รุ่งเรืองต้มยำ3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/รุ่งเรืองต้มยำ4.jpg"
     ],
     "lat": 13.7251,
     "lng": 100.5701,
@@ -103,11 +103,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 40,
     "imageUrl": [
-      "https://img.wongnai.com/p/1920x0/2026/03/27/5aa4a9cc38c0445aa7f475ca7820ac3e.jpg",
-      "https://www.ryoiireview.com/upload/article/202210/1666765295_112a7618e114a514dc0d844404550286.jpg",
-      "https://www.ryoiireview.com/upload/article/202110/1634545121_45b0d4bbbc290731c10484d830edc9c7.jpg",
-      "https://www.ryoiireview.com/upload/article/202110/1634545121_41ac98c7c8e90d540f68d71ee4808ff9.jpg",
-      "https://www.ryoiireview.com/upload/article/202110/1634545121_929c485afe563aaf3ce5f39e42bfc01c.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ.jpg",
+      "https://raw.githubusercontent.comaphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ4.jpg"
     ],
     "lat": 13.7497,
     "lng": 100.5422,
@@ -126,11 +126,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 20,
     "imageUrl": [
-      "https://storage.googleapis.com/atime-media-prod/editor/content/ae43797b-129b-49a1-802f-b32d66a40ac7.jpeg",
-      "https://img.wongnai.com/p/1920x0/2017/03/20/18b38a0ce74242be92f625f6f613c326.jpg",
-      "https://img.wongnai.com/p/400x400/2017/02/13/38622fdc296c44d8b3e5e87f5260e765.jpg",
-      "https://img.wongnai.com/p/1600x0/2019/01/23/176641cc711d4f4fae549745c14393d6.jpg",
-      "https://img.wongnai.com/p/1920x0/2019/04/17/8823c5da23074bf7ac836fae94842426.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/นายไซ.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/นายไซ1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/นายไซ2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/นายไซ3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/นายไซ4.jpg"
     ],
     "lat": 13.8242,
     "lng": 100.5367,
@@ -149,11 +149,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 30,
     "imageUrl": [
-      "https://github.com/aphipatb/photo/blob/main/e17c5a0f713c413c8cfb41f432f340a0.jpg?raw=true",
-      "https://img.wongnai.com/p/1920x0/2022/04/24/2abe0bd00b8c438fb2700be5e4d07ff3.jpg",
-      "https://img.wongnai.com/p/1920x0/2015/05/11/d04a349b64154c7380d499fb98a40ae7.jpg",
-      "https://img.wongnai.com/p/1920x0/2019/07/17/cd50409eb61c4b8ebb804e3596d8ee8f.jpg",
-      "https://img.wongnai.com/p/1920x0/2021/12/17/8c95f81364fd4a15954d9e604faa113e.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยจั๊บนายเอ็ก.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยจั๊บนายเอ็ก1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยจั๊บนายเอ็ก2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยจั๊บนายเอ็ก3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยจั๊บนายเอ็ก4.jpg"
     ],
     "lat": 13.7405,
     "lng": 100.5106,
@@ -172,11 +172,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 25,
     "imageUrl": [
-      "https://img.wongnai.com/p/1920x0/2017/10/10/9c947b76ee984d7e99aaa9f672d119a4.jpg",
-      "https://img.wongnai.com/p/1920x0/2017/10/10/46e0eb9dde3a4b94ab72aea4c9dabd4c.jpg",
-      "https://img.wongnai.com/p/1920x0/2017/10/10/a7a587eb40e04b06926494140e210d70.jpg",
-      "https://img.wongnai.com/p/1920x0/2017/10/10/0f44af1d33a14004b41c7403b4e3bf36.jpg",
-      "https://img.wongnai.com/p/1920x0/2017/10/10/ae69f5e04ea147a4aa2e7149d9a9f075.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เผ็ดเผ็ด.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เผ็ดเผ็ด1.webp",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เผ็ดเผ็ด2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เผ็ดเผ็ด3.webp",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เผ็ดเผ็ด4.jpg"
     ],
     "lat": 13.7825,
     "lng": 100.5451,
@@ -195,8 +195,8 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 20,
     "imageUrl": [
-      "https://img.wongnai.com/p/1920x0/2020/06/25/8d35251f79814a338745d2c0342c021d.jpg",
-      "https://img.wongnai.com/p/400x400/2022/07/19/83137c367fef4cb9a4e389ec1cc825f3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/โจ๊กสามย่าน.webp",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/โจ๊กสามย่าน1.jpg",
       "https://img.wongnai.com/p/400x400/2018/07/15/2ac13660f153429b82bf02a30ba55a76.jpg",
       "https://img.wongnai.com/p/400x400/2019/03/02/082cd2e67fc9454ea2afe0f71af34f53.jpg",
       "https://img.wongnai.com/p/400x400/2022/07/19/e9eb9868207d4710bc8a9282655007f4.jpg"
