@@ -104,7 +104,7 @@ final List<Map<String, dynamic>> dummyData = [
     "capacityPerSlot": 40,
     "imageUrl": [
       "https://raw.githubusercontent.com/aphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ.jpg",
-      "https://raw.githubusercontent.comaphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ1.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ2.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ3.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/โกอ่างข้าวมันไก่ประตูน้ำ4.jpg"
@@ -197,9 +197,9 @@ final List<Map<String, dynamic>> dummyData = [
     "imageUrl": [
       "https://raw.githubusercontent.com/aphipatb/photo/main/โจ๊กสามย่าน.webp",
       "https://raw.githubusercontent.com/aphipatb/photo/main/โจ๊กสามย่าน1.jpg",
-      "https://img.wongnai.com/p/400x400/2018/07/15/2ac13660f153429b82bf02a30ba55a76.jpg",
-      "https://img.wongnai.com/p/400x400/2019/03/02/082cd2e67fc9454ea2afe0f71af34f53.jpg",
-      "https://img.wongnai.com/p/400x400/2022/07/19/e9eb9868207d4710bc8a9282655007f4.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/โจ๊กสามย่าน3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/โจ๊กสามย่าน2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/โจ๊กสามย่าน4.jpg"
     ],
     "lat": 13.7381,
     "lng": 100.5284,
@@ -218,11 +218,11 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 20,
     "imageUrl": [
-      "https://img.wongnai.com/p/1920x0/2018/08/15/a84b2b2e69cd4ff3bb6903f27601e9ca.jpg",
-      "https://img.wongnai.com/p/400x400/2020/01/30/f2a6f77abb8e4b21bd5ccff09bffffbb.jpg",
-      "https://img.wongnai.com/p/400x400/2023/08/14/cc7ad47c5b84404682d35e9a031bf4c7.jpg",
-      "https://img.wongnai.com/p/400x400/2016/12/26/ade52a70c504416d9c9bfda56972d75c.jpg",
-      "https://img.wongnai.com/p/400x400/2024/01/23/bc2c02d9a82a4799807702fabac97e19.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยเตี๋ยวเพ็ญพริกเผ็ด.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยเตี๋ยวเพ็ญพริกเผ็ด1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยเตี๋ยวเพ็ญพริกเผ็ด2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยเตี๋ยวเพ็ญพริกเผ็ด3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ก๋วยเตี๋ยวเพ็ญพริกเผ็ด4.jpg"
     ],
     "lat": 13.1118,
     "lng": 99.9453,
