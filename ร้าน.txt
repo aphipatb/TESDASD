@@ -11,17 +11,17 @@ final List<Map<String, dynamic>> dummyData = [
     },
     "capacityPerSlot": 30,
     "imageUrl": [
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDseCxTHDE5SalW7OJS1UvStioNInlXmnCecHhstkIQ2yv3h__5uxz4l5arpP7AB5pSgPTDsIi8w9IFZxhFyuGyJesqTnWcLOLn4JKV7w8Ry66RPgluVJ4vnICTWElF83kB9ju0zMFuvM=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlINgOUWU9RRf1xt3IZHmQCOeUmGx1ujfQBiHhWBNiXYvgUnjZRAZDX3pf3xacNHqNmcj8EbP6pW-9UlzHcIXfHvgvx1uuu1LSgNQS53Qa6x6EYG8uvSh7qpPQmkGIfcFV19N7OqDJDKWQ=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUPFJdO3WIjgdWSFLLNqBVljGRgXqWW9NKAQ-ZW4K2ncxTHkYO8PbLj00g3g1hjlz2X8cJpqk2ol7ujUQVklhe-Xurm9dwTTYMpz--3PVztYuABZ_rh2a0_Low0JzXGTTIuriykfSs-8s=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnk69CbJtqvf8QmT53AxFod26E4OjFhJT5iHwjjFbH5oaIzxLIFlNd60fTOnWosWjIZuk_JuitsqGXLc93uI2-g69Za7gKQCMJc_eS58MryHvPirzCIeDpnDpebLe8plE0_WSedpeluWFRk=s1360-w1360-h1020-rw",
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdKncjmQmeNXUnaOHeyJZu31OLYYxwjbGeJPpaj4IZlKU7-SmktGrapt3VRVT6SjYFxp-p5ikI46j1lP8KUPVduo3Pi2l7xTSW7JQi5BOc-Jm6djNLBO0ZrWuQW_7FWkYe7OL0v2LYiZwV=s1360-w1360-h1020-rw"
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkDseCxTHDE5SalW7OJS1UvStioNInlXmnCecHhstkIQ2yv3h__5uxz4l5arpP7AB5pSgPTDsIi8w9IFZxhFyuGyJesqTnWcLOLn4JKV7w8Ry66RPgluVJ4vnICTWElF83kB9ju0zMFuvM=s800",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlINgOUWU9RRf1xt3IZHmQCOeUmGx1ujfQBiHhWBNiXYvgUnjZRAZDX3pf3xacNHqNmcj8EbP6pW-9UlzHcIXfHvgvx1uuu1LSgNQS53Qa6x6EYG8uvSh7qpPQmkGIfcFV19N7OqDJDKWQ=s800",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkUPFJdO3WIjgdWSFLLNqBVljGRgXqWW9NKAQ-ZW4K2ncxTHkYO8PbLj00g3g1hjlz2X8cJpqk2ol7ujUQVklhe-Xurm9dwTTYMpz--3PVztYuABZ_rh2a0_Low0JzXGTTIuriykfSs-8s=s800",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnk69CbJtqvf8QmT53AxFod26E4OjFhJT5iHwjjFbH5oaIzxLIFlNd60fTOnWosWjIZuk_JuitsqGXLc93uI2-g69Za7gKQCMJc_eS58MryHvPirzCIeDpnDpebLe8plE0_WSedpeluWFRk=s800",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkdKncjmQmeNXUnaOHeyJZu31OLYYxwjbGeJPpaj4IZlKU7-SmktGrapt3VRVT6SjYFxp-p5ikI46j1lP8KUPVduo3Pi2l7xTSW7JQi5BOc-Jm6djNLBO0ZrWuQW_7FWkYe7OL0v2LYiZwV=s800"
     ],
     "lat": 13.7526,
     "lng": 100.5048,
     "rating": 4.6,
     "reviewCount": 1540,
-    "tags": ["thai", "ของคาว", "michelin" ]
+    "tags": ["thai", "ของคาว", "michelin", "ขึ้น" ]
   },
   {
     "name": "ทิพย์สมัย ผัดไทยประตูผี",
@@ -44,7 +44,7 @@ final List<Map<String, dynamic>> dummyData = [
     "lng": 100.5047,
     "rating": 4.2,
     "reviewCount": 2100,
-    "tags": ["thai", "ของคาว", "street food"]
+    "tags": ["thai", "ของคาว", "street food","ไม่ขึ้น"]
   },
   {
     "name": "วัฒนาพานิช",
