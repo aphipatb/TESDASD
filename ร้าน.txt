@@ -1,4 +1,4 @@
-final List<Map<String, dynamic>> dummyData = [
+final List<Map<String, dynamic>> dummyData =  [
   {
     "name": "เจ๊ไฝ (Jay Fai)",
     "description": "ไข่เจียวปูแน่นๆ และราดหน้าทะเลระดับดาวมิชลิน sss",
@@ -15,7 +15,9 @@ final List<Map<String, dynamic>> dummyData = [
       "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ5.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ1.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ3.jpg",
-      "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ2.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ6.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/เจ๊ไฝ5.jpg"
     ],
     "lat": 13.7526,
     "lng": 100.5048,
@@ -25,7 +27,7 @@ final List<Map<String, dynamic>> dummyData = [
   },
   {
     "name": "ทิพย์สมัย ผัดไทยประตูผี",
-    "description": "ผัดไทยมันกุ้งห่อไข่ระดับตำนาน sss",
+    "description": "ผัดไทยมันกุ้งห่อไข่ระดับตำนาน ",
     "address": "313-315 ถ.มหาไชย แขวงสำราญราษฎร์ เขตพระนคร กรุงเทพมหานคร 10200",
     "phoneNumber": "02-226-6666",
     "socialLinks": {
@@ -97,7 +99,7 @@ final List<Map<String, dynamic>> dummyData = [
   },
   {
     "name": "โกอ่างข้าวมันไก่ประตูน้ำ",
-    "description": "ข้าวมันไก่ฉ่ำๆ ตำนานเสื้อชมพู sss",
+    "description": "ข้าวมันไก่ฉ่ำๆ ตำนานเสื้อชมพู ",
     "address": "960 ถ.เพชรบุรี แขวงมักกะสัน เขตราชเทวี กรุงเทพมหานคร 10400",
     "phoneNumber": "02-252-8772",
     "socialLinks": {
@@ -193,7 +195,7 @@ final List<Map<String, dynamic>> dummyData = [
   },
   {
     "name": "โจ๊กสามย่าน",
-    "description": "โจ๊กหมูเด้งชิ้นโตเนื้อเนียน sss",
+    "description": "โจ๊กหมูเด้งชิ้นโตเนื้อเนียน",
     "address": "245 ซ.จุฬาลงกรณ์ 11 แขวงวังใหม่ เขตปทุมวัน กรุงเทพมหานคร 10330",
     "phoneNumber": "02-216-4809",
     "socialLinks": {
@@ -241,7 +243,7 @@ final List<Map<String, dynamic>> dummyData = [
   },
   {
     "name": "ศรณ์ (Sorn)",
-    "description": "อาหารใต้สไตล์ Fine Dining 2 ดาวมิชลิน",
+    "description": "อาหารใต้สไตล์ Fine Dining 2 ดาวมิชลิน sss",
     "address": "56 ซ.สุขุมวิท 26 แขวงคลองตัน เขตคลองเตย กรุงเทพมหานคร 10110",
     "phoneNumber": "099-081-1119",
     "socialLinks": {
@@ -255,7 +257,9 @@ final List<Map<String, dynamic>> dummyData = [
       "https://raw.githubusercontent.com/aphipatb/photo/main/sorn1.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/sorn2.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/sorn3.jpg",
-      "https://raw.githubusercontent.com/aphipatb/photo/main/sorn4.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/sorn4.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Sorn5.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Sorn6.jpg"
     ],
     "lat": 13.7275,
     "lng": 100.5694,
@@ -289,7 +293,7 @@ final List<Map<String, dynamic>> dummyData = [
   },
   {
     "name": "สุพรรณิการ์ (Supanniga Eating Room)",
-    "description": "อาหารไทยตราด-อีสานสูตรคุณยาย",
+    "description": "อาหารไทยตราด-อีสานสูตรคุณยาย sss",
     "address": "160/11 ซ.สุขุมวิท 55 แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพมหานคร 10110",
     "phoneNumber": "02-714-7508",
     "socialLinks": {
@@ -303,7 +307,9 @@ final List<Map<String, dynamic>> dummyData = [
       "https://raw.githubusercontent.com/aphipatb/photo/main/Supanniga1.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/Supanniga2.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/Supanniga3.jpg",
-      "https://raw.githubusercontent.com/aphipatb/photo/main/Supanniga4.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Supanniga4.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Supanniga5.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Supanniga6.jpg"
     ],
     "lat": 13.7276,
     "lng": 100.5794,
@@ -481,7 +487,7 @@ final List<Map<String, dynamic>> dummyData = [
   },
   {
     "name": "ระย้า (Raya)",
-    "description": "แกงเนื้อปูใบชะพลูตำนานเมืองภูเก็ต",
+    "description": "แกงเนื้อปูใบชะพลูตำนานเมืองภูเก็ต sss",
     "address": "48 ถ.ดีบุก ต.ตลาดใหญ่ อ.เมือง จ.ภูเก็ต 83000",
     "phoneNumber": "076-218-155",
     "socialLinks": {
@@ -491,11 +497,13 @@ final List<Map<String, dynamic>> dummyData = [
     "openingHours": "เปิดทุกวัน 10:00 - 22:00 น.",
     "capacityPerSlot": 50,
     "imageUrl": [
-      "https://images.unsplash.com/photo-1559314809-0d155014e29e",
-      "https://images.unsplash.com/photo-1564834724105-918b73d1b9e0",
-      "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
-      "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe",
-      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Raya.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Raya1.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Raya2.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Raya3.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Raya4.jpg,
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Raya5.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/Raya6.jpg"
     ],
     "lat": 7.8862,
     "lng": 98.3904,
@@ -735,7 +743,9 @@ final List<Map<String, dynamic>> dummyData = [
       "https://raw.githubusercontent.com/aphipatb/photo/main/LeDu1.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/LeDu2.jpg",
       "https://raw.githubusercontent.com/aphipatb/photo/main/LeDu3.jpg",
-      "https://raw.githubusercontent.com/aphipatb/photo/main/LeDu4.jpg"
+      "https://raw.githubusercontent.com/aphipatb/photo/main/LeDu4.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ledu5.jpg",
+      "https://raw.githubusercontent.com/aphipatb/photo/main/ledu6.jpg"
     ],
     "lat": 13.7237,
     "lng": 100.5284,
