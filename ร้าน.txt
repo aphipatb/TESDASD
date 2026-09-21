@@ -319,7 +319,7 @@ final List<Map<String, dynamic>> dummyData =  [
   },
   {
     "name": "ศรีตราด (Sri Trat)",
-    "description": "อาหารไทยตะวันออกรสเข้มข้น บรรยากาศดี",
+    "description": "อาหารไทยตะวันออกรสเข้มข้น บรรยากาศดี sss",
     "address": "90 ซ.สุขุมวิท 33 แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพมหานคร 10110",
     "phoneNumber": "02-088-0968",
     "socialLinks": {
@@ -755,7 +755,7 @@ final List<Map<String, dynamic>> dummyData =  [
   },
   {
     "name": "Peppina",
-    "description": "พิซซ่าสไตล์นาโปลีแท้ อบเตาถ่าน",
+    "description": "พิซซ่าสไตล์นาโปลีแท้ อบเตาถ่าน sss",
     "address": "27/1 ซ.สุขุมวิท 33 แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพมหานคร 10110",
     "phoneNumber": "02-119-7677",
     "socialLinks": {
@@ -876,7 +876,7 @@ final List<Map<String, dynamic>> dummyData =  [
   [
   {
     "name": "Cocotte Farm Roast & Winery",
-    "description": "ร้านสเต๊กและอาหารฝรั่งเศสสไตล์บิสโทร",
+    "description": "ร้านสเต๊กและอาหารฝรั่งเศสสไตล์บิสโทร sss",
     "address": "39 บูเลอวาร์ด ซ.สุขุมวิท 39 แขวงคลองตันเหนือ เขตวัฒนา กรุงเทพมหานคร 10110",
     "phoneNumber": "092-664-6777",
     "socialLinks": {
@@ -1044,7 +1044,7 @@ final List<Map<String, dynamic>> dummyData =  [
   },
   {
     "name": "Factory Coffee",
-    "description": "Specialty Coffee ดีกรีแชมป์บาริสต้า",
+    "description": "Specialty Coffee ดีกรีแชมป์บาริสต้า sss",
     "address": "49 ถ.พญาไท แขวงถนนพญาไท เขตราชเทวี กรุงเทพมหานคร 10400",
     "phoneNumber": "080-402-2222",
     "socialLinks": {
