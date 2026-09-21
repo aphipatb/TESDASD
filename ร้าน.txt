@@ -729,7 +729,7 @@ final List<Map<String, dynamic>> dummyData =  [
   },
   {
     "name": "Le Du (ฤดู)",
-    "description": "อาหารไทยร่วมสมัยสไตล์ Modern Dining",
+    "description": "อาหารไทยร่วมสมัยสไตล์ Modern Dining sss",
     "address": "399/3 ซ.สีลม 7 แขวงสีลม เขตบางรัก กรุงเทพมหานคร 10500",
     "phoneNumber": "092-919-9969",
     "socialLinks": {
