@@ -1,0 +1,82 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+
+class UserService {
+  final FirebaseFirestore _db = FirebaseFirestore.instance;
+  final FirebaseAuth _auth = FirebaseAuth.instance;
+
+  // ฟังก์ชันสลับสถานะร้านโปรด (กดใจ / เอาใจออก)
+  Future<void> toggleFavorite(String restaurantId) async {
+    String? uid = _auth.currentUser?.uid;
+    if (uid == null) return;
+
+    DocumentReference userDoc = _db.collection('users').doc(uid);
+    DocumentSnapshot docSnap = await userDoc.get();
+
+    if (docSnap.exists) {
+      List<dynamic> favorites = docSnap['favorites'] ?? [];
+
+      if (favorites.contains(restaurantId)) {
+        await userDoc.update({
+          'favorites': FieldValue.arrayRemove([restaurantId]),
+        });
+        print('ลบออกจากร้านโปรดแล้ว');
+      } else {
+        await userDoc.update({
+          'favorites': FieldValue.arrayUnion([restaurantId]),
+        });
+        print('เพิ่มเป็นร้านโปรดแล้ว 💖');
+      }
+    }
+  }
+
+  // ==========================================
+  // ✅ ใหม่: ดึงข้อมูลโปรไฟล์ผู้ใช้แบบ real-time
+  // ==========================================
+  // ใช้กับ StreamBuilder ในหน้า ProfilePage เพื่อโชว์ชื่อ/เบอร์โทรแบบสด
+  Stream<DocumentSnapshot> getUserDataStream() {
+    final uid = _auth.currentUser?.uid;
+    if (uid == null) {
+      // ถ้ายังไม่ล็อกอิน ส่ง stream ว่างกลับไปกันแอปพัง
+      return const Stream.empty();
+    }
+    return _db.collection('users').doc(uid).snapshots();
+  }
+
+  // ==========================================
+  // ✅ ใหม่: ดึงข้อมูลโปรไฟล์ครั้งเดียว (ใช้ตอนโหลดหน้าแก้ไข)
+  // ==========================================
+  Future<DocumentSnapshot?> getUserDataOnce() async {
+    final uid = _auth.currentUser?.uid;
+    if (uid == null) return null;
+    try {
+      return await _db.collection('users').doc(uid).get();
+    } catch (e) {
+      print('Error fetching user data: $e');
+      return null;
+    }
+  }
+
+  // ==========================================
+  // ✅ ใหม่: อัปเดตชื่อผู้ใช้และเบอร์โทรศัพท์
+  // ==========================================
+  Future<bool> updateProfile({
+    required String username,
+    required String phone,
+  }) async {
+    final uid = _auth.currentUser?.uid;
+    if (uid == null) return false;
+
+    try {
+      await _db.collection('users').doc(uid).update({
+        'username': username,
+        'phone': phone,
+      });
+      print('✅ อัปเดตโปรไฟล์สำเร็จ');
+      return true;
+    } catch (e) {
+      print('❌ Error updating profile: $e');
+      return false;
+    }
+  }
+}
