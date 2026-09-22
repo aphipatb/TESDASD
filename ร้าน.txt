@@ -327,6 +327,8 @@ final List<Map<String, dynamic>> dummyData =  [
       "instagram": "@sritrat"
     },
     "openingHours": "เปิดทุกวัน 11:00 - 22:00 น.",
+    "open" : "11:00",
+    "close" : "22:00",
     "capacityPerSlot": 40,
     "imageUrl": [
       "https://raw.githubusercontent.com/aphipatb/photo/main/tri.jpg",
